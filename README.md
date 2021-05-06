@@ -1,2 +1,2 @@
 # Zone.Dev
-A Fortnite Private Server
+A Fortnite Private Server Coming Soon
